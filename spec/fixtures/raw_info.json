@@ -1,0 +1,15 @@
+{
+  "oid": "G55lH4uOv7rRjVxxxNfLb19R",
+  "id": "Test_User",
+  "name": "Test User",
+  "description": "Awesome Text",
+  "icon_color": "04",
+  "image": "https://lh3.googleusercontent.com/a/AAcHTtcLwPCZanIv5H9GHlmnqgdy4YoBDOsp6L8voGC8dcaT=s96-c",
+  "email": "testuser@example.com",
+  "website": "https://testuser.example.com",
+  "name_text": "Test User",
+  "name_html": "Test User",
+  "description_html": "Awesome Text",
+  "description_text": "Awesome Text",
+  "url": "https://quire.io/u/Test_User"
+}

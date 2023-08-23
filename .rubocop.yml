@@ -11,3 +11,11 @@ Style/StringLiteralsInInterpolation:
 
 Layout/LineLength:
   Max: 120
+
+Naming/FileName:
+  Exclude:
+    - lib/omniauth-quire.rb
+
+Metrics/BlockLength:
+  Exclude:
+    - spec/omniauth/quire_spec.rb
